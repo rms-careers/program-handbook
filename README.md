@@ -5,6 +5,12 @@ Your tutor teaches the topics; this handbook covers the working rules.
 
 Syllabus version: **v1.0** (October 2026).
 
+> ## 👋 New to GitHub? [Start here →](start-here/README.md)
+> A step-by-step guide that assumes no Git or GitHub knowledge: create your account, set up your computer, make your
+> first repository from the template, upload your work and submit it. About 90 minutes.
+
+## Reference
+
 | # | Read | When |
 |---|---|---|
 | 1 | [Getting started](01-getting-started.md): accounts, tools, your GitHub username | Before Week 1 |

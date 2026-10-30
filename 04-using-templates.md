@@ -3,6 +3,9 @@
 Some projects start from an RMS template: a repository in the [rms-careers](https://github.com/rms-careers)
 organisation with starter files and folders.
 
+New to GitHub? Follow [Start here, Step 4](start-here/04-create-your-first-repository.md) for a slower walkthrough
+with every click explained.
+
 ## Creating your repo from a template
 
 1. Open the template link in your project brief.

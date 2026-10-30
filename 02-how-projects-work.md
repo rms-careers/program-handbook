@@ -42,10 +42,10 @@ Start with the rubric. It tells you where the marks are.
 
 | Status | Meaning | What you do |
 |---|---|---|
-| Submitted | Waiting for review | Nothing yet |
-| Under review | Your tutor is reviewing it | Nothing yet |
-| Changes requested | Your tutor wants changes | Read the feedback, fix, push, and resubmit |
-| Approved | Done | Read the feedback; it often contains points worth mentioning in interviews |
+| Submitted for Review | Waiting for review | Nothing yet (you can still push fixes and update the submission) |
+| Under Tutor Review | Your tutor is reviewing it | Nothing yet |
+| Changes Requested | Your tutor wants changes | Read the feedback, fix, push, and resubmit |
+| Project Approved | Done | Read the feedback; it often contains points worth mentioning in interviews |
 
 Approved projects earn XP towards your batch leaderboard.
 
